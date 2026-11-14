@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Álvaro</h1>
 <h3 align="center">A full stack developer trying to make time to learn more and more</h3>
 
-- 🔭 I’m currently working on **alvaroquero.com**
+- 🔭 I’m currently working on **alvaroquero.dev**
 
 - 🌱 I’m currently learning **Python**
 
